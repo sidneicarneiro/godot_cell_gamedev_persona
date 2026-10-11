@@ -4,5 +4,8 @@
   "description": "Persona especializado em desenvolvimento de jogos para celular usando Godot 4.x",
   "main": "bundle/index.js",
   "type": "module",
-  "dshPlugin": true
+  "dshPlugin": true,
+  "bundles": {
+    "default": "bundle/index.js"
+    }
 }
