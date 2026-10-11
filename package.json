@@ -1,0 +1,8 @@
+{
+  "name": "godot_cell_gamedev_persona",
+  "version": "1.0.0",
+  "description": "Persona especializado em desenvolvimento de jogos para celular usando Godot 4.x",
+  "main": "bundle/index.js",
+  "type": "module",
+  "dshPlugin": true
+}
