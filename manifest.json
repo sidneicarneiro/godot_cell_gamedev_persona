@@ -1,0 +1,7 @@
+{
+  "name": "godot_cell_gamedev_persona",
+  "version": "1.0.0",
+  "description": "Persona especializado em desenvolvimento de jogos 2d para celular usando Godot.",
+  "entry": "persona.json",
+  "type": "persona"
+}
